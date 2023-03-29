@@ -1,6 +1,4 @@
-#main{
 
-}
 p{
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -9,15 +7,14 @@ font-size: 50px;
 font-weight: bold;
 text-align: center;
 }
-#img-div{
-  display: block;
-}
-img{
+
+#image{
+max-width: 100%;
 display: block;
 margin-left: auto;
 margin-right: auto;
 width: 100%;
-max-width: 100%;
+
 }
 
 #tribute-link{
